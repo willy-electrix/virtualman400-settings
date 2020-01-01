@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+!README.md
+
+!opt/
+!opt/retropie/
+!opt/retropie/configs/
+!opt/retropie/configs/all/
+!opt/retropie/configs/all/emulators.cfg
+!opt/retropie/configs/all/retroarch/
+!opt/retropie/configs/all/retroarch/config/
+!opt/retropie/configs/all/retroarch/config/MAME 2003-Plus/
+!opt/retropie/configs/all/retroarch/config/MAME 2003-Plus/sftm.cfg
